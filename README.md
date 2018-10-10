@@ -1,4 +1,4 @@
-# Matlab_utilities
+# Matlab utilities
 
 Description: Matlab utilities and experiments.
 
